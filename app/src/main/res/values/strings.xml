@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Push Notification Example</string>
+    <string name="push_button">Push Button</string>
+    <string name="notification_message">Here is the message from your app notification</string>
+</resources>
